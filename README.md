@@ -9,7 +9,7 @@ To get started with NLP, it's essential to have a basic understanding of topics 
 ## Step 1
 
 
-### Text Preprocessing
+## Text Preprocessing
 Text preprocessing is a crucial step in most NLP projects. It involves transforming raw text data into a format that can be easily understood and analyzed by machine learning models. By applying various preprocessing techniques, you can clean the text, remove noise, standardize the format, and extract useful features that enhance the performance of NLP models.
 
 Here are some common text preprocessing techniques:
@@ -40,5 +40,23 @@ These preprocessing techniques are often combined and customized based on the sp
 By applying effective text preprocessing techniques, you can improve the quality of your data and enable more accurate and meaningful analysis in NLP projects.
 
 
+## Step 2
+
+## Feature Extraction 
+
+
+This repository provides an implementation of text extraction techniques in NLP (Natural Language Processing) using Python. The goal is to extract meaningful information and patterns from unstructured text data. The following techniques are covered in this repository:
+
+### 1. One-Hot Encoding
+One-Hot Encoding is a technique used to represent categorical data, such as words or tokens, as binary vectors. Each word is represented as a vector where all elements are zero, except for the index corresponding to the word, which is set to one. This technique is useful for converting text data into a numerical representation suitable for machine learning algorithms.
+
+### 2. Bag of Words (BoW)
+The Bag of Words model represents text data as a collection of unique words, disregarding grammar and word order. It creates a vocabulary of all unique words in the corpus and represents each document as a vector, where each element indicates the frequency of a word in the document. The BoW model is commonly used for text classification tasks and information retrieval systems.
+
+### 3. TF-IDF (Term Frequency-Inverse Document Frequency)
+TF-IDF is a numerical statistic that reflects the importance of a word in a document within a collection of documents. It combines the term frequency (TF), which measures how frequently a word appears in a document, and the inverse document frequency (IDF), which penalizes words that are too common across documents. TF-IDF assigns higher weights to words that are important within a document while considering their rarity across the entire corpus.
+
+### 4. N-grams
+N-grams are contiguous sequences of n items from a given text, where items can be characters, words, or even larger chunks of text. They are used to capture the context and sequential information in text data. By considering different values of n, such as unigrams (single words), bigrams (pairs of words), trigrams (three-word sequences), and so on, N-grams can provide a more comprehensive representation of text.
 
 

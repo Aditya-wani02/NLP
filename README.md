@@ -59,4 +59,7 @@ TF-IDF is a numerical statistic that reflects the importance of a word in a docu
 ### 4. N-grams
 N-grams are contiguous sequences of n items from a given text, where items can be characters, words, or even larger chunks of text. They are used to capture the context and sequential information in text data. By considering different values of n, such as unigrams (single words), bigrams (pairs of words), trigrams (three-word sequences), and so on, N-grams can provide a more comprehensive representation of text.
 
+## Word2Vec
+
+Word2Vec is a popular algorithm used in natural language processing and machine learning tasks to generate word embeddings. Word embeddings are dense vector representations of words that capture semantic and syntactic relationships between them. They are useful in various text-related applications such as information retrieval, text classification, and language translation.
 

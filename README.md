@@ -6,7 +6,6 @@ Natural Language Processing (NLP) is a field of artificial intelligence that foc
 To get started with NLP, it's essential to have a basic understanding of topics such as text preprocessing, text classification, named entity recognition, sentiment analysis, machine translation, and more. The projects and resources provided in this repository will help you gain hands-on experience with these concepts.
 
 
-## Step 1
 
 
 ## Text Preprocessing
@@ -40,7 +39,6 @@ These preprocessing techniques are often combined and customized based on the sp
 By applying effective text preprocessing techniques, you can improve the quality of your data and enable more accurate and meaningful analysis in NLP projects.
 
 
-## Step 2
 
 ## Feature Extraction 
 
@@ -63,3 +61,6 @@ N-grams are contiguous sequences of n items from a given text, where items can b
 
 Word2Vec is a popular algorithm used in natural language processing and machine learning tasks to generate word embeddings. Word embeddings are dense vector representations of words that capture semantic and syntactic relationships between them. They are useful in various text-related applications such as information retrieval, text classification, and language translation.
 
+
+## Part-of-Speech Tagging
+Part-of-Speech (POS) tagging is a fundamental task in Natural Language Processing (NLP), which involves assigning grammatical information (such as noun, verb, adjective, etc.) to each word in a given text. POS tagging plays a crucial role in various NLP applications, including machine translation, sentiment analysis, information retrieval, and more.

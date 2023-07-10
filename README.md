@@ -67,12 +67,6 @@ Part-of-Speech (POS) tagging is a fundamental task in Natural Language Processin
 
 ## Projects 
 
-Sentiment Analyzer
-Text Categorizer
-Named Entity Recognizer
-Chatbot Development Kit
-Text Summarizer
-Question Answering System
-Language Translator
-Topic Modeler
-Sarcasm Detector
+Sentiment Analyzer, Text Categorizer, Named Entity Recognizer, Chatbot Development Kit, Text Summarizer, Question Answering System, Language Translator, Topic Modeler, Named Entity Disambiguator, Sarcasm Detector
+
+

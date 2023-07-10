@@ -64,3 +64,15 @@ Word2Vec is a popular algorithm used in natural language processing and machine 
 
 ## Part-of-Speech Tagging
 Part-of-Speech (POS) tagging is a fundamental task in Natural Language Processing (NLP), which involves assigning grammatical information (such as noun, verb, adjective, etc.) to each word in a given text. POS tagging plays a crucial role in various NLP applications, including machine translation, sentiment analysis, information retrieval, and more.
+
+## Projects 
+
+Sentiment Analyzer
+Text Categorizer
+Named Entity Recognizer
+Chatbot Development Kit
+Text Summarizer
+Question Answering System
+Language Translator
+Topic Modeler
+Sarcasm Detector
